@@ -1,6 +1,6 @@
 import math
-n = int(input("n= "))
-k = int(input("k= "))
+n = input("n= ")
+k = input("k= ")
 if n == k:
     print(1)
 elif k == 1:
